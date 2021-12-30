@@ -10,15 +10,15 @@ class CurrentUser extends StatefulWidget {
 
 class _CurrentUserState extends State<CurrentUser> {
 
-
-Widget getuserdata() {
 final user= FirebaseAuth.instance.currentUser;
+// Widget getuserdata() {
+// final user= FirebaseAuth.instance.currentUser;
 
-// final username = user;
+// // final username = user;
 
-return Text(user!.email.toString());
+// return Text(user!.email.toString());
 
-}
+// }
 
  
 
@@ -29,8 +29,13 @@ return Text(user!.email.toString());
         children: [
           // Text("Welcome"),
           // Text("User "),
+          
           Container(
-            child: getuserdata(),
+           
+
+// final username = user;
+
+       child: Text(user!.email.toString())
           ),
 
       
