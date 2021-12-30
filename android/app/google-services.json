@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720599599265",
+    "project_id": "myshoppie-8395",
+    "storage_bucket": "myshoppie-8395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720599599265:android:c2165497372f215b1f08e0",
+        "android_client_info": {
+          "package_name": "com.shoppie.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720599599265-mqnc0hr7hobf38k3h0dhf9ng4e1mdd3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkXGZ-T8cWOJzG3Hwvmx-T2Ryg0wJERY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720599599265-mqnc0hr7hobf38k3h0dhf9ng4e1mdd3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
